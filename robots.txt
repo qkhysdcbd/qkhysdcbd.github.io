@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qkhysdcbd.github.io/sitemap.xml
